@@ -89,4 +89,5 @@ int main()
     main1(input);
     main2(input);
     free(input);
+    return 0;
 }
